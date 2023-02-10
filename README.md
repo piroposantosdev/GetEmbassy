@@ -2,7 +2,7 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/languages/code-size/piroposantosdev/GetEmbassy)
+![GitHub repo size](https://img.shields.io/github/repo-size/piroposantosdev/GetEmbassy?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/piroposantosdev/GetEmbassy?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/piroposantosdev/GetEmbassy?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/piroposantosdev/GetEmbassy?style=for-the-badge)
