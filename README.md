@@ -2,11 +2,11 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/languages/code-size/piroposantosdev/GetEmbassy)
+![GitHub language count](https://img.shields.io/github/languages/count/piroposantosdev/GetEmbassy?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/piroposantosdev/GetEmbassy?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/piroposantosdev/GetEmbassy?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/piroposantosdev/GetEmbassy?style=for-the-badge)
 
 ![image](https://user-images.githubusercontent.com/110497491/218152604-f482a768-2b93-46a2-8a10-914e9578db23.png)
 
