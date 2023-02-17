@@ -40,7 +40,7 @@ Before you begin, keep the following notes in mind:
 To install GetEmbassy, follow these steps:
 
 ```
-1. Download the package;
+1. Download the package (npm i getembassy or npm i https://github.com/piroposantosdev/GetEmbassy);
 2. In terminal (CMD), go to folder where you extract the files (cd folder);
 3. You must install node_modules, using npm i or npm install command
 4. Type node index to start 
