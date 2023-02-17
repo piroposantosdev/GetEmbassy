@@ -1,6 +1,6 @@
 {
   "name": "getembassy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple mode to get a list of available embassy in each country. Good for your war game, map, etc",
   "main": "index.js",
   "scripts": {
